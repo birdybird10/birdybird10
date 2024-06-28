@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @birdybird10
 - 👀 I’m interested in software development.
 - 🌱 I’m currently earning my BS in Computer Science from Oregon State University.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: allimajors22@gmail.com
 - ⚡ Fun fact: I have a Bachelor of Fine Arts degree in Dance from New York University.
